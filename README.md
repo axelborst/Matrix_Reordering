@@ -6,4 +6,4 @@ In this file, the smooth-index algorithm is called ‘SI_sort(), which takes a m
 
 The other files contain the code to create the various figures. 
 
-These files take the data collected in the directory ‘/SIPPaper_Data’.
+These files take the data collected in the directory ‘/SIPaper_Data’.
