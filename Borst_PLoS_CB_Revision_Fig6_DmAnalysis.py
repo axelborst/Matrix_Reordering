@@ -5,9 +5,9 @@ Created on Mon Nov 28 09:07:30 2022
 @author: aborst
 """
 
+import docx
 import numpy as np
 import matplotlib.pyplot as plt
-import blindschleiche_py3 as bs
 import sort_library_NEW as sl
 
 direct = 'SIPaper_Data/OpticLobeDM/'
@@ -18,6 +18,12 @@ fname2='offset_column_connectivity.csv'
 nofcells=65
 
 save_switch=0
+
+def setmyaxes(myxpos,myypos,myxsize,myysize):
+    
+    ax=plt.axes([myxpos,myypos,myxsize,myysize])
+    ax.xaxis.set_ticks_position('bottom')
+    ax.yaxis.set_ticks_position('left')
 
 def read_single_connM(fname):
     
@@ -198,19 +204,19 @@ def plot_figure():
     
     plt.figure(figsize=(7.5,10))
     
-    bs.setmyaxes(0.06,0.60,0.4,0.3)
+    setmyaxes(0.06,0.60,0.4,0.3)
     plot_full_M(rawM,ctype,'original M', maxval=30)
     
-    bs.setmyaxes(0.63,0.70,0.32,0.2)
+    setmyaxes(0.63,0.70,0.32,0.2)
     plot_nofconnections()
     
-    bs.setmyaxes(0.70,0.38,0.25,0.25)
+    setmyaxes(0.70,0.38,0.25,0.25)
     plotM(M,'original adjacency M')
     
-    bs.setmyaxes(0.70,0.15,0.25,0.25)
+    setmyaxes(0.70,0.15,0.25,0.25)
     plotM(newM_adj,'reordered adjacency M')
     
-    bs.setmyaxes(0.065,0.20,0.5,0.3)
+    setmyaxes(0.065,0.20,0.5,0.3)
     plot_full_M(newM_raw,newlabels,'reordered M', maxval=30)
     cbar = plt.colorbar()
     cbar.set_ticks([-30,-20,-10,0,10,20,30])
@@ -287,9 +293,61 @@ def plot_table(trld=0.5):
     if save_switch == 1:
         
         plt.savefig('Table_1.tiff',dpi=300)
+        
+def export_table_to_word(trld=0.5):
+
+    rec_synM = np.load(direct+'IntraCol_rec_synM.npy')
+    rec_synM = rec_synM * (rec_synM > trld)
     
-plot_table()
-plot_figure()
+    yval, xval = np.where(rec_synM != 0)
+    
+    nofsyns = yval.size
+    
+    # sort along p_value
+    
+    myarray = np.zeros(nofsyns)
+    
+    for i in range(nofsyns):
+        
+        myarray[i] = rec_synM[yval[i],xval[i]]
+        
+    newargs = np.argsort(myarray)
+    newargs = newargs[::-1]
+    
+    mytable=[['a','b','c','d']]
+    for i in range(nofsyns-1):
+        mytable.append(['a', 'b', 'c', 'd'])
+    
+    print('p_recu   syn_str   connection')
+    
+    # now use newargs as index for table
+    
+    for k in range(nofsyns):
+        
+        i = newargs[k]
+        
+        mytable[k][0] = str(format(rec_synM[yval[i],xval[i]],'.3f'))
+        mytable[k][1] = str(int(rawM[yval[i],xval[i]]))
+        mytable[k][2] = ctype[xval[i]]
+        mytable[k][3] = ctype[yval[i]]
+        
+    # Initialise the Word document
+    doc = docx.Document()
+    
+    # Initialise the table
+    t = doc.add_table(rows=nofsyns, cols=4)
+    
+    for i in range(nofsyns):
+        for j in range(4):
+            cell = mytable[i][j]
+            t.cell(i, j).text = str(cell)
+    
+    myrows = np.arange(nofsyns)+1
+    mycols = ['p_recu','syn_str','pre','post']
+        
+    doc.save('table 1.docx')
+    
+
 
         
     
