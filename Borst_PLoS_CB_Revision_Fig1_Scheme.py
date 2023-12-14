@@ -6,8 +6,8 @@ Created on Fri Mar 09 08:43:49 2018
 """
 
 import numpy as np
-import matrixlibrary_py3 as mtx
 import matplotlib.pyplot as plt
+import sort_library_NEW as sl
 
 mylw=2
 titlesize=8
@@ -21,7 +21,7 @@ plt.rcParams['figure.facecolor'] = 'white'
 plt.rc('xtick',labelsize=6)
 plt.rc('ytick',labelsize=6)
 
-save_switch=1
+save_switch=0
 
 def setmyaxes(myxpos,myypos,myxsize,myysize):
     
@@ -88,7 +88,7 @@ def show_variable_circuit(mixed,box_xpos,box_ypos):
     if mixed==1: 
         newnumbers=np.array([3,0,2,5,4,1])
         newlabels=['d','a','c','f','e','b']
-        M=mtx.renumberM(M,newnumbers)
+        M=sl.renumberM(M,newnumbers)
         
     var_y=np.array([0.51, 0.22, 0.77, 0.53, 0.89, 0.89])
     
@@ -137,7 +137,7 @@ def showcircuit(mixed,recurr,mytitle,box_ypos):
     if mixed==1: 
         newnumbers=np.array([3,0,2,5,4,1])
         newlabels=['d','a','c','f','e','b']
-        M=mtx.renumberM(M,newnumbers)
+        M=sl.renumberM(M,newnumbers)
     
     ypos=19.0-np.arange(mydim)*3.0
     xpos=np.arange(mydim)*0+17
