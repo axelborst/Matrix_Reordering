@@ -1,6 +1,6 @@
 ### Data source:
 ```
-Lappalainen, J. K., Tschopp, F. D., Prakhya, S., & McGill, M. (2023). Connectome-constrained deep mechanistic networks predict neural responses across the fly visual system at single-neuron resolution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.03.11.532232.abstract
+Lappalainen, J. K., Tschopp, F. D., Prakhya, S., McGill, M., Nern, A., Shinomiya, K., Takemura, S.-Y., Gruntman, E., Macke, J. H., & Turaga, S. C. (2023). Connectome-constrained deep mechanistic networks predict neural responses across the fly visual system at single-neuron resolution. https://doi.org/10.1101/2023.03.11.532232
 ```
 
 The connectome data used in this work was assembled and provided by the authors of the article above.
