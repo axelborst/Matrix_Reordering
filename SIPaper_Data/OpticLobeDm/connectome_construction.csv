@@ -1,0 +1,605 @@
+,presynaptic,postsynaptic,filter reference,dataset reference,sign reference,number cells of presynaptic type,number cells of postsynaptic type
+0,R1,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+1,R1,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+2,R1,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+3,R1,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+4,R1,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+5,R2,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+6,R2,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+7,R2,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+8,R2,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+9,R2,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+10,R3,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+11,R3,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+12,R3,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+13,R3,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+14,R3,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+15,R4,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+16,R4,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+17,R4,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+18,R4,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+19,R4,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+20,R5,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+21,R5,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+22,R5,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+23,R5,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+24,R5,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+25,R6,L1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+26,R6,L2,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+27,R6,L3,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+28,R6,Am,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+29,R6,T1,Rivera-Alba et al. 2011,-,Hardie 1989,-,-
+30,R7,R8,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,12,10
+31,R7,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,12,46
+32,R7,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,12,10
+33,R7,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,12,7
+34,R7,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,12,10
+35,R8,R7,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,10,12
+36,R8,L1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,10,22
+37,R8,L3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,10,21
+38,R8,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,45
+39,R8,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,40
+40,R8,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,46
+41,R8,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,10
+42,R8,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,10,4
+43,R8,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Hardie 1989,10,10
+44,L1,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,22,15
+45,L1,Lawf2,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+46,L1,C2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,22,19
+47,L1,C3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,22,36
+48,L1,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,22,45
+49,L1,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,22,58
+50,L2,R1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+51,L2,R2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+52,L2,L1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+53,L2,L4,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+54,L2,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,15
+55,L2,Lawf2,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+56,L2,C3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,19,36
+57,L2,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,19,45
+58,L2,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,19,40
+59,L2,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,46
+60,L2,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,11
+61,L2,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,42
+62,L2,Tm2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,53
+63,L2,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,19,37
+64,L2,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,10
+65,L2,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,19,27
+66,L3,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,7
+67,L3,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,36
+68,L3,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,45
+69,L3,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,6
+70,L3,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,46
+71,L3,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,8
+72,L3,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,10
+73,L3,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,58
+74,L3,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,8
+75,L3,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,7
+76,L3,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,4
+77,L3,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,45
+78,L3,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,10
+79,L3,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,10
+80,L3,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,25
+81,L3,TmY10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,21,4
+82,L4,R1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+83,L4,R2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+84,L4,R3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+85,L4,R4,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+86,L4,R5,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+87,L4,R6,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+88,L4,L2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+89,L4,L3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+90,L4,L4,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+91,L4,L5,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+92,L4,Am,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+93,L4,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,46
+94,L4,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,36
+95,L4,Tm2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,53
+96,L4,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,37
+97,L4,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,45
+98,L4,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,27
+99,L4,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,4
+100,L5,L1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,22
+101,L5,L2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,19
+102,L5,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,15
+103,L5,C2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,19
+104,L5,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,36
+105,L5,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,45
+106,L5,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,6
+107,L5,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,40
+108,L5,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,10
+109,L5,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,11
+110,L5,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,36
+111,L5,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,58
+112,L5,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,10
+113,L5,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,27
+114,L5,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,4
+115,L5,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,37
+116,L5,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,37
+118,Lawf1,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,7,58
+119,Lawf2,L3,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+120,Lawf2,Lawf2,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+121,Lawf2,Am,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+122,Am,R1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+123,Am,R2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+124,Am,R4,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+125,Am,R5,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+126,Am,L1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+127,Am,L2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+128,Am,L3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+129,Am,L4,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+130,Am,C2,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+131,Am,C3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+132,Am,T1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+133,C2,L1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,22
+134,C2,L2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,19
+135,C2,L3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,21
+136,C2,L4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,11
+137,C2,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,15
+138,C2,Lawf2,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+139,C2,Am,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+140,C2,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,45
+141,C2,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,11
+142,C2,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,36
+143,C2,T4a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,19,76
+144,C2,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,42
+145,C2,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,45
+146,C2,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,19,37
+147,C3,R3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+148,C3,L1,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+149,C3,L2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,36,19
+150,C3,L3,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+151,C3,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,15
+152,C3,Lawf2,Tuthill et al. 2014,-,Davis et al. 2020,-,-
+153,C3,Am,Rivera-Alba et al. 2011,-,Davis et al. 2020,-,-
+154,C3,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+155,C3,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,36,45
+156,C3,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,36,40
+157,C3,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,46
+158,C3,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,11
+159,C3,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,36
+160,C3,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,36,76
+161,C3,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,36,82
+162,C3,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,87
+163,C3,T4d,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,77
+164,C3,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,42
+165,C3,Tm2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,36,53
+166,C3,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,37
+167,C3,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,45
+168,C3,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,10
+169,CT1(Lo1),T5a,Takemura et al. 2017,-,Davis et al. 2020,-,-
+170,CT1(Lo1),T5b,Takemura et al. 2017,-,Davis et al. 2020,-,-
+171,CT1(Lo1),T5c,Takemura et al. 2017,-,Davis et al. 2020,-,-
+172,CT1(Lo1),T5d,Takemura et al. 2017,-,Davis et al. 2020,-,-
+173,CT1(Lo1),Tm1,Takemura et al. 2017,-,Davis et al. 2020,-,-
+174,CT1(Lo1),Tm9,Takemura et al. 2017,-,Davis et al. 2020,-,-
+175,CT1(M10),C3,Takemura et al. 2017,-,Davis et al. 2020,-,-
+176,CT1(M10),Mi1,Takemura et al. 2017,-,Davis et al. 2020,-,-
+177,CT1(M10),T4a,Takemura et al. 2017,-,Davis et al. 2020,-,-
+178,CT1(M10),T4b,Takemura et al. 2017,-,Davis et al. 2020,-,-
+179,CT1(M10),T4c,Takemura et al. 2017,-,Davis et al. 2020,-,-
+180,CT1(M10),T4d,Takemura et al. 2017,-,Davis et al. 2020,-,-
+181,Mi1,L1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,22
+182,Mi1,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,15
+183,Mi1,C2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,19
+184,Mi1,C3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,36
+185,Mi1,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+186,Mi1,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,6
+187,Mi1,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,40
+188,Mi1,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,46
+189,Mi1,Mi10,"Takemura et al. 2015, Takemura et al. 2017, Shinomiya et al. 2019","FIB-19, FIB-25",Davis et al. 2020,-,-
+190,Mi1,Mi12,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,10
+191,Mi1,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,8
+192,Mi1,Mi14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,3
+193,Mi1,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,10
+194,Mi1,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,36
+195,Mi1,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,16
+196,Mi1,T3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,33
+197,Mi1,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,76
+198,Mi1,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,82
+199,Mi1,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,87
+200,Mi1,T4d,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,77
+201,Mi1,Tm1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,42
+202,Mi1,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,58
+203,Mi1,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,10
+204,Mi1,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,27
+205,Mi1,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,25
+206,Mi1,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,4
+207,Mi1,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,37
+208,Mi1,TmY15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,9
+209,Mi1,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,45,37
+210,Mi2,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,45
+211,Mi2,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,36
+212,Mi2,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,16
+213,Mi2,T3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,33
+214,Mi2,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,42
+215,Mi2,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,6,37
+216,Mi3,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,3,36
+217,Mi3,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,3,10
+218,Mi4,L2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,19
+219,Mi4,C3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,36
+220,Mi4,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,45
+221,Mi4,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,40
+222,Mi4,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,46
+223,Mi4,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,11
+224,Mi4,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,40,76
+225,Mi4,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,82
+226,Mi4,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,40,87
+227,Mi4,T4d,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,77
+228,Mi4,Tm1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,42
+229,Mi4,Tm2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,53
+230,Mi4,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,8
+231,Mi4,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,7
+232,Mi4,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,10
+233,Mi4,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,4
+234,Mi4,Tm9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,45
+235,Mi4,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,8
+236,Mi4,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,10
+237,Mi4,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,10
+238,Mi4,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,27
+239,Mi4,TmY4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,40,15
+240,Mi4,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,40,19
+241,Mi4,TmY10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,4
+242,Mi4,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,40,4
+243,Mi4,TmY15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,40,9
+244,Mi4,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,40,37
+245,Mi9,L3,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,46,21
+246,Mi9,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,7
+247,Mi9,C3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,46,36
+248,Mi9,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+249,Mi9,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,46,45
+250,Mi9,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,46,40
+251,Mi9,Mi10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,12
+252,Mi9,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,10
+253,Mi9,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,36
+254,Mi9,T2a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,46,16
+255,Mi9,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,76
+256,Mi9,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,82
+257,Mi9,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,87
+258,Mi9,T4d,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,77
+259,Mi9,Tm1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,46,42
+260,Mi9,Tm2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,46,53
+261,Mi9,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,37
+262,Mi9,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,7
+263,Mi9,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,10
+264,Mi9,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,8
+265,Mi9,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,46,27
+266,Mi9,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,46,15
+267,Mi9,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,19
+268,Mi9,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,4
+269,Mi9,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,46,37
+270,Mi10,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,7
+271,Mi10,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,12,46
+272,Mi10,Mi14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,3
+273,Mi10,T4a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,12,76
+274,Mi10,T4b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,12,82
+275,Mi10,T4c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,12,87
+276,Mi10,T4d,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,12,77
+277,Mi10,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,10
+278,Mi10,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,27
+279,Mi10,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,19
+280,Mi10,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,12,37
+281,Mi12,Mi1,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,45
+282,Mi12,Mi9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,46
+283,Mi12,Tm1,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,42
+284,Mi12,Tm2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,53
+285,Mi12,Tm3,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,58
+286,Mi12,Tm4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,10,37
+287,Mi13,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,15
+288,Mi13,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,45
+289,Mi13,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,36
+290,Mi13,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,42
+291,Mi13,Tm2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,53
+292,Mi13,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,58
+293,Mi13,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,37
+294,Mi13,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,45
+295,Mi14,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,3,42
+296,Mi14,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,3,37
+297,Mi14,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,3,27
+298,Mi15,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,36
+299,Mi15,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,40
+300,Mi15,Mi10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,12
+301,Mi15,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,10
+302,Mi15,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,4
+303,T1,L2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,19
+304,T1,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,15
+305,T1,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,11,10
+306,T2,Lawf2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,3
+307,T2,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,36,45
+308,T2,T2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,36,36
+309,T2,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,36,4
+310,T2,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,36,19
+311,T2,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,36,9
+312,T2a,Mi1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,16,45
+313,T2a,T3,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,16,33
+314,T2a,Tm3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,16,58
+315,T2a,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,16,8
+316,T2a,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,16,10
+317,T2a,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,16,10
+318,T2a,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,16,15
+319,T2a,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,16,19
+320,T2a,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,16,25
+321,T3,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,33,36
+322,T3,T2a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,33,16
+323,T3,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,33,58
+324,T4a,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,76,36
+325,T4a,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+326,T4a,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,76,46
+327,T4a,Mi12,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,76,10
+328,T4a,T4a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,76,76
+329,T4a,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,76,87
+330,T4a,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,76,68
+331,T4a,TmY14,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,76,37
+332,T4a,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,76,37
+333,T4b,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+334,T4b,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,82,46
+335,T4b,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,82,82
+336,T4b,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,82,87
+337,T4b,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,82,74
+338,T4b,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,82,9
+339,T4c,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+340,T4c,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,87,46
+341,T4c,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,87,87
+342,T4c,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,87,71
+343,T4c,TmY4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,87,15
+344,T4c,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,87,37
+345,T4c,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,87,9
+346,T4d,CT1(M10),Takemura et al. 2017,-,Davis et al. 2020,-,-
+347,T4d,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,77,76
+348,T4d,T4d,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,77,77
+349,T4d,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,77,59
+350,T4d,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,77,15
+351,T4d,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,77,9
+352,T5a,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+353,T5a,T4a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,76
+354,T5a,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,68
+355,T5a,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,74
+356,T5a,TmY9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,25
+357,T5a,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,37
+358,T5a,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,68,9
+359,T5b,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+360,T5b,T2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,36
+361,T5b,T4b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,82
+362,T5b,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,74
+363,T5b,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,59
+364,T5b,Tm2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,53
+365,T5b,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,37
+366,T5b,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,74,9
+367,T5c,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+368,T5c,T4c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,87
+369,T5c,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,71
+370,T5c,Tm2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,53
+371,T5c,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,15
+372,T5c,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,37
+373,T5c,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,71,9
+374,T5d,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+375,T5d,T2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,59,36
+376,T5d,T4d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,59,77
+377,T5d,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,59,59
+378,T5d,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,59,15
+379,T5d,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,59,9
+380,Tm1,L2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,19
+381,Tm1,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,15
+382,Tm1,Lawf2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,3
+383,Tm1,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,42,36
+384,Tm1,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+385,Tm1,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,45
+386,Tm1,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,6
+387,Tm1,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,40
+388,Tm1,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,46
+389,Tm1,Mi12,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,10
+390,Tm1,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,8
+391,Tm1,T1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,11
+392,Tm1,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,36
+393,Tm1,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,42,16
+394,Tm1,T3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,33
+395,Tm1,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,68
+396,Tm1,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,74
+397,Tm1,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,71
+398,Tm1,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,59
+399,Tm1,Tm2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,53
+400,Tm1,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,42,37
+401,Tm1,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,8
+402,Tm1,Tm9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,42,45
+403,Tm1,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,10
+404,Tm1,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,42,10
+405,Tm1,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,42,15
+406,Tm1,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,42,25
+407,Tm1,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,42,9
+408,Tm2,L2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,19
+409,Tm2,L5,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,53,15
+410,Tm2,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,53,7
+411,Tm2,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,53,36
+412,Tm2,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+413,Tm2,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,40
+414,Tm2,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,46
+415,Tm2,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,53,36
+416,Tm2,T2a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,16
+417,Tm2,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,68
+418,Tm2,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,74
+419,Tm2,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,71
+420,Tm2,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,59
+421,Tm2,Tm1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,42
+422,Tm2,Tm4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,37
+423,Tm2,Tm9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,45
+424,Tm2,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,53,10
+425,Tm2,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,53,27
+426,Tm2,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,53,15
+427,Tm2,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,53,4
+428,Tm2,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,53,9
+429,Tm2,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,53,37
+430,Tm3,L1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,22
+431,Tm3,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,7
+432,Tm3,Lawf2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,3
+433,Tm3,Mi1,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,58,45
+434,Tm3,Mi11,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,2
+435,Tm3,Mi14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,3
+436,Tm3,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,36
+437,Tm3,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,16
+438,Tm3,T3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,33
+439,Tm3,T4a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,76
+440,Tm3,T4b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,82
+441,Tm3,T4c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,87
+442,Tm3,T4d,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,77
+443,Tm3,Tm3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,58
+444,Tm3,Tm4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,58,37
+445,Tm3,Tm30,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,2
+446,Tm3,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,27
+447,Tm3,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,19
+448,Tm3,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,4
+449,Tm3,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,58,37
+450,Tm3,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,58,9
+451,Tm3,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,58,37
+452,Tm4,Lawf2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,3
+453,Tm4,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,36
+454,Tm4,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,40
+455,Tm4,Mi10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,12
+456,Tm4,Mi12,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,10
+457,Tm4,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,8
+458,Tm4,Mi14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,3
+459,Tm4,T2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,36
+460,Tm4,T2a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,16
+461,Tm4,T3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,33
+462,Tm4,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,68
+463,Tm4,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,74
+464,Tm4,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,71
+465,Tm4,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,59
+466,Tm4,Tm3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,58
+467,Tm4,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,37
+468,Tm4,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,27
+469,Tm4,TmY4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,15
+470,Tm4,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,19
+471,Tm4,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,4
+472,Tm4,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,37
+473,Tm4,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,9
+474,Tm5Y,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,7
+475,Tm5Y,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,10
+476,Tm5Y,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,10
+477,Tm5Y,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,19
+478,Tm5Y,TmY10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,4
+479,Tm5a,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",7,7
+480,Tm5a,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",7,10
+481,Tm5b,Mi3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",10,3
+482,Tm5b,Mi10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",10,12
+483,Tm5b,Tm5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",10,7
+484,Tm5b,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",10,10
+485,Tm5b,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",10,4
+486,Tm5c,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",4,40
+487,Tm5c,Mi15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",4,10
+488,Tm5c,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",4,8
+489,Tm5c,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",4,10
+490,Tm5c,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,"Karuppudurai et al. 2014, Lin and Potter 2016",4,8
+491,Tm9,CT1(Lo1),Takemura et al. 2017,-,Davis et al. 2020,-,-
+492,Tm9,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,45,46
+493,Tm9,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,68
+494,Tm9,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,74
+495,Tm9,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,71
+496,Tm9,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,59
+497,Tm9,Tm1,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,42
+498,Tm9,Tm2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,53
+499,Tm9,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,8
+500,Tm9,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,10
+501,Tm9,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,15
+502,Tm9,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,45,25
+503,Tm9,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,45,9
+504,Tm16,Lawf1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,7
+505,Tm16,Lawf2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,3
+506,Tm16,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,46
+507,Tm16,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,36
+508,Tm16,Tm1,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,42
+509,Tm16,Tm2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,53
+510,Tm16,Tm4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,37
+511,Tm16,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,8
+512,Tm16,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,4
+513,Tm16,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,45
+514,Tm16,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,27
+515,Tm16,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,19
+516,Tm16,TmY10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,4
+517,Tm16,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,4
+518,Tm16,TmY14,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,8,37
+519,Tm20,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,6
+520,Tm20,Mi9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,46
+521,Tm20,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,8
+522,Tm20,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,45
+523,Tm20,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,10
+524,Tm28,Tm5Y,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,8
+525,Tm28,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,15
+526,Tm28,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,10,25
+527,TmY3,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,27,36
+528,TmY3,Tm4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,27,37
+529,TmY3,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,27,27
+530,TmY3,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,27,15
+531,TmY3,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,27,19
+532,TmY3,TmY13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,27,4
+533,TmY3,TmY14,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,27,37
+534,TmY3,TmY15,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,27,9
+535,TmY4,Mi3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,3
+536,TmY4,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,40
+537,TmY4,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,8
+538,TmY4,T2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,15,36
+539,TmY4,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,15,59
+540,TmY4,TmY4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,15,15
+541,TmY4,TmY5a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,15,19
+542,TmY4,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,15,25
+543,TmY4,TmY14,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,15,37
+544,TmY5a,Mi2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,6
+545,TmY5a,Mi3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,3
+546,TmY5a,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,36
+547,TmY5a,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,16
+548,TmY5a,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,8
+549,TmY5a,TmY3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,27
+550,TmY5a,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,19,15
+551,TmY5a,TmY14,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,19,37
+552,TmY5a,TmY15,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,19,9
+553,TmY5a,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,19,37
+554,TmY9,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,25,8
+555,TmY9,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,25,15
+556,TmY9,TmY9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,25,25
+557,TmY10,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,40
+558,TmY10,T2a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,16
+559,TmY10,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,10
+560,TmY10,Tm5c,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,4
+561,TmY10,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,45
+562,TmY10,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,8
+563,TmY10,Tm20,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,10
+564,TmY10,Tm28,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,10
+565,TmY10,TmY4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,15
+566,TmY10,TmY9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,25
+567,TmY13,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,40
+568,TmY13,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,36
+569,TmY13,Tm5b,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,10
+570,TmY13,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,8
+571,TmY13,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,4,19
+572,TmY14,C3,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,36
+573,TmY14,Mi12,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,10
+574,TmY14,Mi13,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,8
+575,TmY14,Tm9,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,45
+576,TmY14,Tm16,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,8
+577,TmY14,TmY4,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,15
+578,TmY15,Mi4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,40
+579,TmY15,Mi9,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,46
+580,TmY15,T2,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,36
+581,TmY15,T2a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,16
+582,TmY15,T4a,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,76
+583,TmY15,T4b,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,82
+584,TmY15,T4c,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,87
+585,TmY15,T4d,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,77
+586,TmY15,T5a,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,68
+587,TmY15,T5b,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,74
+588,TmY15,T5c,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,71
+589,TmY15,T5d,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,59
+590,TmY15,Tm1,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,42
+591,TmY15,Tm2,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,53
+592,TmY15,Tm3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,58
+593,TmY15,Tm4,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,37
+594,TmY15,Tm9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,9,45
+595,TmY15,TmY3,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,27
+596,TmY15,TmY14,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,37
+597,TmY15,TmY18,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,9,37
+598,TmY18,Mi4,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,40
+599,TmY18,Mi10,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,12
+600,TmY18,T2,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,36
+601,TmY18,TmY5a,"Takemura et al. 2015, Takemura et al. 2017",FIB-25,Davis et al. 2020,37,19
+602,TmY18,TmY9,Shinomiya et al. 2019,FIB-19,Davis et al. 2020,37,25
+603,TmY18,TmY15,Shinomiya et al. 2019,FIB-19>FIB-25,Davis et al. 2020,37,9
+604,TmY18,TmY18,"Takemura et al. 2015, Takemura et al. 2017",FIB-25>FIB-19,Davis et al. 2020,37,37
